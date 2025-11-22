@@ -1,6 +1,6 @@
 ### Olá, eu sou a Samylle Souza 👋
 
-Desenvolvedora Web | Python · PHP · MySQL · UI/UX · Design
+Desenvolvedora Front End | HTML, CSS, JavaScript, Python | UI/UX | Designer Gráfica | Expandindo para PHP
 
 ---
 
